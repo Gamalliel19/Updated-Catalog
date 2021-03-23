@@ -1,5 +1,5 @@
 # Updated-Catalog
-## What you’ll do
+## What I do
 
 <ul>
     <li>Write a script that summarizes and processes sales data into </li>
